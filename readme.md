@@ -14,4 +14,4 @@ Kitsuchart Pasupa - kitsuchart@it.kmitl.ac.th <br/>
 Wisuwat Sunhem - wisuwat.sun@gmail.com <br/>
 Chu Kiong Loo - ckloo.um@um.edu.my <br/>
 
-## Citation guideline
+
