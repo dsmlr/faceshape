@@ -1,5 +1,5 @@
 # A Hybrid Approach to Building Face Shape Classifier for Hairstyle Recommender System
-This repository provides an accessible gateway to the labelled face shape dataset experimented in our approach. As you may see, all images were seperated into 5 different directories under "published_dataset" folder to represent the different shapes of images in each folder.
+This repository provides an accessible gateway to the labelled face shape dataset experimented in our approach. As you may see, all images were seperated into 5 different directories under "published_dataset" folder to represent the different shapes of images in each folder. <br/>
 If you are interested in further investigating your own study throughout this dataset, please see citation guideline below. 
 
 ## Abstract
